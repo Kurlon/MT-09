@@ -27,6 +27,7 @@ The switch uses a 6 pin, .250in wide contact connector that appears to be a 'Sum
 When you look at the connector, there are four wires, two thin wires, two thick wires, one of each on each side of the connector. The thin wires are the 'go' signal, thick are the power feed. Looking at the keyswitch side connector, looking into it with the locking tab facing up, the wires are:
 
 | | locking tab | |
+| --- | --- | --- |
 | Blue with black stripe | | Red |
 | Orangw with blue stripe | | Blue |
 
