@@ -7,8 +7,21 @@ EBC specs out FA252 pads for the MT-09, and doesn't offer them in their racier c
 
 Plumbed through the stock lines and ABS module, the stock 17mm Brembo master feels OK, now that I've switched to direct lines from Core Moto I'm a little worried that I'll be slightly over-mastered. On the R6 Yamaha paired these calipers with a 16mm radial master, the Advics run a slightly smaller piston area than the Stylemas. I have a couple OEM R6 masters on standby if I don't like the feel of the Brembo.
 
+## Rotors
+298mm Yamaha R6 rotors (2nd generation R6) are direct bolt ups. My Goldfrens I used to use on my superbike FZR400 with an R6 front wheel for example are the right OD, and are 3oz lighter per side than the OEM Yamaha units.
+
 ### Brembo Stylema Calipers
 Haven't chased pads on these. On paper these calipers should be about 100g lighter per side than the Advics?
+
+# Wheels
+## Captive Spacers
+The MT-09 wheels come with nice, light, simple wheel spacers that are the opposite of captive, they like to eject themselves the moment you attempt to put a wheel back on the bike.
+
+### Front Wheel
+Pretend the bike is a 3rd generation R6, source captive spacers for one. I prefer ones like Graves or Spider Racing out of Italy that have large bevels on the outside faces to ease reinstalling the wheel.
+
+### Rear Wheel
+The rear wheel has an oddball spacer on one side that doesn't cross to any earlier Yamahas, as such there aren't as many options for captive spacers that will fit the MT-09, but Spider Racing out of Italy does list a kit that can be ordered through HSBK in the US.
 
 # Ditching Keys
 Standard race prep is to get rid of anything needing a key so you don't have to worry about that on track. Unfortunately, given how few of these bikes are raced most of those parts haven't been adapted to the MT-09 yet.
