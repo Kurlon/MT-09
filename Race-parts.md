@@ -28,7 +28,18 @@ When you look at the connector, there are four wires, two thin wires, two thick 
 
 | | locking tab | |
 | --- | --- | --- |
-| Blue with black stripe | | Red |
-| Orangw with blue stripe | | Blue |
+| Blue with Black stripe | | Red |
+| Orange with Blue stripe | | Blue |
+
+Get the service manual to see the wiring diagrams for the ignition system.
 
 ### Kurlon Bypass
+Remove the OEM ignition switch, this is not fun. You'll need to remove the tank and airbox, both well documented online. Then, to get the switch tower off you'll need to deal with it's four bolts. These have been installed using red or equivalent PITA loctite. I was able to remove the upper two bolts using a 6mm allen impact bit, the two lower bolts are security bolts that sheer off the heads when installed. I ended up grinding the remaining heads off, which allowed me to remove the tower and frame strengthening steel plate underneath. From there I had to use locking pliers to work the bolt stubs out. In hind sight, a torch to heat the bolts/frame up and defeat the loctite would have made things easier but I wasn't comfortable waving a torch around under there at that time.
+
+Souce a matching connector, [Cycleterminal](https://www.cycleterminal.com/250-connectors.html) lists a Sumitomo .250 non-sealed locking connector that sounds like a match, it's locking tabs are on the wrong connector though. The harness side female connector has the lock prong, the male connector for the switch end should have a slot to recieve it, and Cycleterminal's unit flips those around. The crimp connectors they supply for it though do appear to be a close match. On the same page they list "Yazaki CN-A Locking Type - 250 Connectors" which appear to be keyed correctly and I'll be trying to get a set. If you google "sumitomo lock type 0.250 6 pin" you'll find other listings for what appear to be matching connectors, some of which come with wire leads already crimped up if you don't like crimping your own terminals.
+
+On the new connector, wire a jumper between the Blue with Black stripe wire position and Blue wire position. This is just an ECU 'go' signal, if the switch had a park position, leaving this pair open but jumping the 12v feed would be how it would achieve that. There is no power on this loop when the 12v feed isn't connected so it won't cause a drain on the bike staying in place.
+
+Crimp in leads to the Red and Orange with Blue stripe positions, these are what will be switched on and off to control power to the bike.
+
+Source a suitable SPST waterproof switch, knowing it's going to see 12v DC and potentially 10A+ at times. Speedcell offers a generic 'master arm switch' kit with a suitable switch and nice 3d metal printed guard. I'll post a pic showing my setup once done.
