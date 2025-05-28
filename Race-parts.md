@@ -33,7 +33,7 @@ Everywhere lists the 2024+ MT-09 as working with the same keyless gas cap assemb
 S2 Concepts out of France makes a race tail for these bikes that will let you toss the OEM seats (5lbs?!) and some of the heavy steel subframe bracketry to retain them. I've not done this upgrade yet myself.
 
 ## Ignition
-Yamaha seems to be using the 2024 MT-09 to try out all sorts of new parts that don't cross to anything else. The ignition switch is one such item, unique to the 24+ MT-09 using a different connector than they ever used. No keyswitch elimination kit exists yet.
+Yamaha seems to be using the 2024 MT-09 to try out all sorts of new parts that don't cross to anything else. The ignition switch is one such item, unique to the 24+ MT-09 using a different connector than they ever used. No keyswitch elimination kit exists yet. It looks like the R9 uses the same connector and wiring.
 
 The switch uses a 6 pin, .250in wide contact connector that appears to be a 'Sumitomo' design last seen on old Kawi regulator rectifier connections. The keyswitch is a double pole single throw unit, no parking light position. SP bikes also have an immobilizer antenna to contend with. The switch jumps two circuits, one is basically an ECU 'go' trigger, the other is the main 12v feed from the batt to the rest of the harness, no relays or anything to lower the current running through the switch.
 
