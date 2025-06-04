@@ -59,6 +59,6 @@ On the new connector, wire a jumper between the Blue with Black stripe wire posi
 
 Crimp in leads to the Red and Orange with Blue stripe positions, these are what will be switched on and off to control power to the bike.
 
-Source a suitable SPST waterproof switch, knowing it's going to see 12v DC and potentially 10A+ at times. Speedcell offers a generic 'master arm switch' kit with a suitable switch and nice 3d metal printed guard. I'll post a pic showing my setup once done.
+Source a suitable SPST waterproof switch, knowing it's going to see 12v DC and potentially 10A+ at times. Speedcell offers a generic 'master arm switch' kit with a suitable switch and nice 3d metal printed guard.
 
 ![Bare keyswitch elimintator showing the connector, harness and switch.](images/bare-keyswitch-eliminator.jpg)
