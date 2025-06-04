@@ -39,9 +39,9 @@ S2 Concepts out of France makes a race tail for these bikes that will let you to
 ## Ignition
 Yamaha seems to be using the 2024 MT-09 to try out all sorts of new parts that don't cross to anything else. The ignition switch is one such item, unique to the 24+ MT-09 using a different connector than they ever used. No keyswitch elimination kit exists yet. It looks like the R9 uses the same connector and wiring.
 
-The switch uses a 6 pin, .250in wide contact connector that appears to be a 'Sumitomo' design last seen on old Kawi regulator rectifier connections. The keyswitch is a double pole single throw unit, no parking light position. SP bikes also have an immobilizer antenna to contend with. The switch jumps two circuits, one is basically an ECU 'go' trigger, the other is the main 12v feed from the batt to the rest of the harness, no relays or anything to lower the current running through the switch.
+The switch uses a 6 pin, .250in wide contact connector that appears to be a 'Sumitomo' design last seen on old Kawi regulator rectifier connections. The keyswitch is a double pole single throw unit, no parking light position. The switch jumps two circuits, one is basically an ECU 'go' trigger, the other is the main 12v feed from the batt to the rest of the harness, no relays or anything to lower the current running through the switch. SP bikes have a keyless main switch already but expect you to carry the fob on you...
 
-When you look at the connector, there are four wires, two thin wires, two thick wires, one of each on each side of the connector. The thin wires are the 'go' signal, thick are the power feed. Looking at the keyswitch side connector, looking into it with the locking tab facing up, the wires are:
+When you look at the connector, there are four wires, two thin wires, two thick wires, one of each on each side of the connector. The thin wires are the ECU 'go' signal, thick are the power feed. Looking at the keyswitch side connector, looking into it with the locking tab facing up, the wires are:
 
 | | locking tab | |
 | --- | --- | --- |
