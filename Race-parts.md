@@ -57,7 +57,7 @@ Souce a matching connector, [Cycleterminal](https://www.cycleterminal.com/250-co
 
 On the new connector, wire a jumper between the Blue with Black stripe wire position and Blue wire position. This is just an ECU 'go' signal, if the switch had a park position, leaving this pair open but jumping the 12v feed would be how it would achieve that. There is no power on this loop when the 12v feed isn't connected so it won't cause a drain on the bike staying in place.
 
-Crimp in leads to the Red and Orange with Blue stripe positions, these are what will be switched on and off to control power to the bike.
+Crimp in leads to the Red and Orange with Blue stripe positions, these are what will be switched on and off to control power to the bike. These lines carry a decent amount of current, I used 14ga fine strand wire with silicone insulation, so VERY flexible, very heat resistant and also more current capacity than typical automotive coarse strand wire.
 
 Source a suitable SPST waterproof switch, knowing it's going to see 12v DC and potentially 10A+ at times. Speedcell offers a generic 'master arm switch' kit with a suitable switch and nice 3d metal printed guard.
 
