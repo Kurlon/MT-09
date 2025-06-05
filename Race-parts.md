@@ -33,6 +33,8 @@ Standard race prep is to get rid of anything needing a key so you don't have to 
 ## Tank
 Everywhere lists the 2024+ MT-09 as working with the same keyless gas cap assemblies as the 21-23 MT-09, R6 forever, etc. This is not the case, the bolt circle is larger, and the actual tank opening is at the bottom of the bolt circle instead of the top as is normally the case on Yamahas. No keyless cap exists for these tanks yet.
 
+Update! There is at least one keyless cap now in preproduction testing - [TENAGAFRASER](https://shop.tenagafraser.com/products/berani-fuel-cap-for-yamaha-mt-09)
+
 ## Seat
 S2 Concepts out of France makes a race tail for these bikes that will let you toss the OEM seats (5lbs?!) and some of the heavy steel subframe bracketry to retain them. I've not done this upgrade yet myself.
 
