@@ -64,3 +64,6 @@ Crimp in leads to the Red and Orange with Blue stripe positions, these are what 
 Source a suitable SPST waterproof switch, knowing it's going to see 12v DC and potentially 10A+ at times. Speedcell offers a generic 'master arm switch' kit with a suitable switch and nice 3d metal printed guard.
 
 ![Bare keyswitch elimintator showing the connector, harness and switch.](images/bare-keyswitch-eliminator.jpg)
+
+# ECU
+There are more opinions about tuning ECUs than there are about what oil to run. Piggyback tuner vs flashed OEM vs replacement ECU, go with what you know and have knowledge for or access to knowledge for. Rapid Bike for example has full replacement ECUs. [2 Wheel Dyno Works](https://2wheeldynoworks.com/pages/product-result?rq=mk_yamaha~md_fz-mt-09~yr_2024) has flashes for the stock ECU based on a range of build combos, etc. Dynojet offers PowerCommanders, I'm personally not a fan of them but again, go with what you know.
