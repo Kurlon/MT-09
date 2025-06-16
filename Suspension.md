@@ -11,3 +11,5 @@ There are two options besides stock that I'm aware of right now, (Attack Perform
 
 ## Swingarms
 The R9 comes with the MT-09's swingarm, and racers are tossing it right out of the crate. (2WDW)[https://2wheeldynoworks.com/] has a (video)[https://www.youtube.com/watch?v=x2-2hTcY0mI] going over their R9 build and discusses this. TLDR going to a longer XSR / Tracer swingarm provides more room for larger race rubber, helps keep the front end down on hard acceleration, and improves drive grip. This makes for a 'comically' long wheelbase of nearly 59 inches on paper, but having seen what MTs and an R9 with that setup can do on a tight track like Loudon at all of 1.6mi they still turn damn well?
+
+The target PN is B5U-22110-00-00. This was used on the XSR900 from 2022 to 2025 currently. The Tracer 9 used it from 2021 to 2025 currently. MSRP is only $1850... ouch! If going used, make sure it's straight.
