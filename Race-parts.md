@@ -14,7 +14,7 @@ Haven't chased pads on these. On paper these calipers should be about 100g light
 298mm Yamaha R6 rotors (2nd generation R6) are direct bolt ups. My Goldfrens I used to use on my superbike FZR400 with an R6 front wheel for example are the right OD, and are 3oz lighter per side than the OEM Yamaha units.
 
 ## Other Goodies
-[L74](https://www.l74.co.uk/product/yamaha-mt09-2021-onwards-caliper-bundle/) has underslung caliper setups for the MT-09, along with front quick change axles targeting the R6 that may be adaptable.
+[L74](https://www.l74.co.uk/product/yamaha-mt09-2021-onwards-caliper-bundle/) has underslung caliper setups for the MT-09, they may be able to adapt an R6 quick change axle to work with the MT's setup if asked?
 
 # Wheels
 3rd Gen (2021 to 2023) and 4th Gen (2024+) MT-09 sport 'spin forged' wheels that Yamaha claims are lighter than the older cast units seen on the R6. Interestingly... for the R9 they went back to the older style cast wheels, telling the press that despite being heavier riders preferred the feel of the. First time I got tires mounted at the track, they told me I needed to find lighter wheels and had me pick up an R6 front for comparison... in race setup that R6 wheel was noticably lighter. I've not had a chance to compare weights directly with scales, possible that R6 wheel was rocking full Ti hardware, ceramic bearings, etc... but I don't think so? R6 wheels aren't a direct swap, up front they'll bolt up but lack provisions for the ABS tone ring. In back it looks like the MT-09 is using a different sprocket carrier, not sure if it'll swap to an R6 wheel or not, and again, no provisions for the ABS tone ring.
