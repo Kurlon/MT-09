@@ -70,3 +70,6 @@ Source a suitable SPST waterproof switch, knowing it's going to see 12v DC and p
 
 # ECU
 There are more opinions about tuning ECUs than there are about what oil to run. Piggyback tuner vs flashed OEM vs replacement ECU, go with what you know and have knowledge for or access to knowledge for. Rapid Bike for example has full replacement ECUs. [2 Wheel Dyno Works](https://2wheeldynoworks.com/pages/product-result?rq=mk_yamaha~md_fz-mt-09~yr_2024) has flashes for the stock ECU based on a range of build combos, etc. Dynojet offers PowerCommanders, I'm personally not a fan of them but again, go with what you know.
+
+# Random Stuff
+[TST Industries](https://tstindustries.com/tst-worx-quick-turn-throttle-tube-for-yamaha-mt-09-2025.html) has a reduced turn throttle tube available.
