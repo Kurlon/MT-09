@@ -40,6 +40,8 @@ Update! There is at least one keyless cap now in preproduction testing - [TENAGA
 
 For those going with an XSR900 tank, an adapter rear mount has been produced to fit them on the MT's subframe - [Trident Cycles Racing](https://www.tridentcyclesracing.com/category/yamaha-mt-09)
 
+Giaccmoto has an MT-09/R9 tank mount kit that will allow pivoting the tank up to get access to underneath it vs having to take the whole bracket off, coming soon.
+
 ## Seat
 [S2 Concept](https://www.s2-concept.com/en/) out of France makes a race tail for these bikes that will let you toss the OEM seats (5lbs?!) and some of the heavy steel subframe bracketry to retain them. I've not done this upgrade yet myself. They also have a belly pan and some other suitable bits too.
 
