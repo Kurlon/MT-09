@@ -5,10 +5,10 @@ The base 2024 MT-09 uses the same Advics radial calipers that Yamaha has used fo
 ### Advics Calipers
 EBC specs out FA252 pads for the MT-09, and doesn't offer them in their racier compounds. EBC for the R6 specs out FA380 pads, and offers them in their GPFAX compound. The pads are the same backing plate and thickness, FA252s come with anti-rattle shims, FA380s don't. Forget the FA252s exist, shop around FA380 and matching pad fitments from other providers. I'm trying DP RDP418 'RDP X-Race Titanium' pads this year on my MT-09.
 
-Plumbed through the stock lines and ABS module, the stock 17mm Brembo master feels OK, now that I've switched to direct lines from Core Moto I'm a little worried that I'll be slightly over-mastered. On the R6 Yamaha paired these calipers with a 16mm radial master, the Advics run a slightly smaller piston area than the Stylemas. I have a couple OEM R6 masters on standby if I don't like the feel of the Brembo.
+Plumbed through the stock lines and ABS module, the stock 17mm Brembo master feels OK, and now that I've switched to direct lines from Core Moto I can confirm that my worry of being over-mastered wasn't valid. On the R6 Yamaha paired these calipers with a 16mm radial master, the Advics run a slightly smaller piston area than the Stylemas but the lever feel is still good, so no need to down master to an R6 unit in my opinion.
 
 ### Brembo Stylema Calipers
-Haven't chased pads on these. On paper these calipers should be about 100g lighter per side than the Advics?
+Haven't chased pads on these. On paper these calipers should be about 100g lighter per side than the Advics? Not a direct swap between forks though, Yamaha switched to 100mm caliper mounts on the SP to work with the Stylemas vs the normal 108mm mount spacing the Advics and most Japanese OEM brakes use. There is a source of 108mm Stylemas, they are OEM on 24+ Hayabusas but they sit slightly taller on MT-09 forks. If you go this path you'll either need to mill the caliper or fork mount points to lower them to match the 292mm OEM rotors, or go to 320mm rotors and choose matching spacers to line things up.
 
 ## Rotors
 298mm Yamaha R6 rotors (2nd generation R6) are direct bolt ups. My Goldfrens I used to use on my superbike FZR400 with an R6 front wheel for example are the right OD, and are 3oz lighter per side than the OEM Yamaha units.
