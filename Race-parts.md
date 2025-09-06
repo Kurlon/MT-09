@@ -78,4 +78,4 @@ There are more opinions about tuning ECUs than there are about what oil to run. 
 # Random Stuff
 [TST Industries](https://tstindustries.com/tst-worx-quick-turn-throttle-tube-for-yamaha-mt-09-2025.html) has a reduced turn throttle tube available.
 
-Chuck Giacchetto of Giaccmoto now has a damper bracket that mounts to the headstock. Bring your own damper and fork clamp, it won't work if you've got the front headlight / cluster bracket in place. Much sturdier than the Chinese options on the market, and it doesn't get in the way of a stem lift front stand either.
+Chuck Giacchetto of [Giaccmoto](https://www.facebook.com/p/Giaccmoto-100086162373899/) now has a damper bracket that mounts to the headstock. Bring your own damper and fork clamp, it won't work if you've got the front headlight / cluster bracket in place. Much sturdier than the Chinese options on the market, and it doesn't get in the way of a stem lift front stand either.
