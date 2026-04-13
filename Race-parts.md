@@ -34,9 +34,11 @@ The rear wheel has an oddball spacer on one side that doesn't cross to any earli
 Standard race prep is to get rid of anything needing a key so you don't have to worry about that on track. Unfortunately, given how few of these bikes are raced most of those parts haven't been adapted to the MT-09 yet.
 
 ## Tank
-Everywhere lists the 2024+ MT-09 as working with the same keyless gas cap assemblies as the 21-23 MT-09, R6 forever, etc. This is not the case, the bolt circle is larger, and the actual tank opening is at the bottom of the bolt circle instead of the top as is normally the case on Yamahas. No keyless cap exists for these tanks yet.
+Everywhere lists the 2024+ MT-09 as working with the same keyless gas cap assemblies as the 21-23 MT-09, R6 forever, etc. This is not the case, the bolt circle is larger, and the actual tank opening is at the bottom of the bolt circle instead of the top as is normally the case on Yamahas.
 
-Update! There is at least one keyless cap now in preproduction testing - [TENAGAFRASER](https://shop.tenagafraser.com/products/berani-fuel-cap-for-yamaha-mt-09)
+Update! There is at least one keyless cap now - Driven Racing: [Driven Racing](https://drivenracing.com/blog/24-25-yamaha-mt-09-halo-fuel-cap)
+
+Rizoma has a base, but the cap isn't actually keyless, instead you're supposed to use their 'key'...
 
 For those going with an XSR900 tank, an adapter rear mount has been produced to fit them on the MT's subframe - [Trident Cycles Racing](https://www.tridentcyclesracing.com/category/yamaha-mt-09)
 
