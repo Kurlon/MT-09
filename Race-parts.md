@@ -11,7 +11,7 @@ Plumbed through the stock lines and ABS module, the stock 17mm Brembo master fee
 Haven't chased pads on these. On paper these calipers should be about 100g lighter per side than the Advics? Not a direct swap between forks though, Yamaha switched to 100mm caliper mounts on the SP to work with the Stylemas vs the normal 108mm mount spacing the Advics and most Japanese OEM brakes use. There is a source of 108mm Stylemas, they are OEM on 24+ Hayabusas but they sit slightly taller on MT-09 forks. If you go this path you'll either need to mill the caliper or fork mount points to lower them to match the 298mm OEM rotors, or go to 320mm rotors and choose matching spacers to line things up.
 
 ## Rotors
-298mm Yamaha R6 rotors (2nd generation R6) are direct bolt ups. My Goldfrens I used to use on my superbike FZR400 with an R6 front wheel for example are the right OD, and are 3oz lighter per side than the OEM Yamaha units.
+298mm Yamaha R6 rotors (2nd generation R6) are direct bolt ups. My Goldfrens I used to use on my superbike FZR400 with an R6 front wheel for example are the right OD and bolt up without issue.
 
 ## Other Goodies
 [L74](https://www.l74.co.uk/product/yamaha-mt09-2021-onwards-caliper-bundle/) has underslung caliper setups for the MT-09, they may be able to adapt an R6 quick change axle to work with the MT's setup if asked?
