@@ -28,7 +28,7 @@ The MT-09 wheels come with nice, light, simple wheel spacers that are the opposi
 Pretend the bike is a 3rd generation R6, source captive spacers for one. I prefer ones like Graves or Spider Racing out of Italy that have large bevels on the outside faces to ease reinstalling the wheel.
 
 ### Rear Wheel
-The rear wheel has an oddball spacer on one side that doesn't cross to any earlier Yamahas, as such there aren't as many options for captive spacers that will fit the MT-09, but Spider Racing out of Italy does list a kit that can be ordered through HSBK in the US.
+The rear wheel has an oddball spacer on one side that doesn't cross to any earlier Yamahas, as such there aren't as many options for captive spacers that will fit the MT-09, but Spider Racing out of Italy does list a kit that can be ordered through HSBK in the US, PN 30 Y16.
 
 # Ditching Keys
 Standard race prep is to get rid of anything needing a key so you don't have to worry about that on track. Unfortunately, given how few of these bikes are raced most of those parts haven't been adapted to the MT-09 yet.
