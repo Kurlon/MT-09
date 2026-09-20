@@ -9,3 +9,5 @@ Shops with MT-09 / R9 / etc bits:
 [Giaccmoto](https://www.facebook.com/p/Giaccmoto-100086162373899/) - One of the primary crews developing these bikes for racing in MotoAmerica's SuperHooligan series. Lots of quality of life parts like steering damper brackets, tank brackets, etc along with motor development including a head and cam package.
 
 [S2 Concept](https://www.s2-concept.com/en/) - From France we find another pocket of people racing these bikes. S2 Concept has bodywork including bolt up seat pans and belly pans along with other race accessories.
+
+[Seton Tuning](https://www.seton-tuning.co.uk/race-bike-products/) - Out of the UK, they're developing R9 and MT-09 kit as well, including a ram air airbox mod that works on the MT. No idea how it does compared to the DNA Stage 2 that's the go to setup over here?
